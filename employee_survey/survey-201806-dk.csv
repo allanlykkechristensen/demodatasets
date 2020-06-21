@@ -1,0 +1,171 @@
+Date,How many years have you worked for Acme Corporation?,In which business unit do you currently work?,In which office are you currently working?,How satisfied are you with working at Acme Corporation?,My performance is measured against clearly defined outcomes and metrics.,I have access to everything that I need to perform at my job.,My strengths are recognized and I put them into practice every day.,I receive meaningful recognition for doing a good job.,I am happy with the relationship with my manager.,My manager supports me to get better at my valued skills.,My opinions matter and are taken into consideration.,My job counts towards achieving the goals of the organization.,My colleagues are accountable for doing quality work.,I consider at least one of my colleagues to be a true friend.,I have received support for personal growth and development in the last six months.,There are ongoing opportunities for learning and growth in my role.
+2018-06-08 15:01:44,7,Research and Development,DK,9,4,2,3,5,5,4,5,4,4,2,3,4
+2018-06-10 10:07:50,5,Sales and Marketing,DK,8,3,2,3,3,3,4,4,4,3,4,3,4
+2018-06-11 04:29:46,6,Production,DK,6,3,4,3,4,5,3,4,4,3,3,4,5
+2018-06-19 16:17:03,6,Research and Development,DK,8,3,2,4,3,3,3,4,4,4,4,4,3
+2018-06-07 04:28:40,13,Research and Development,DK,9,3,2,4,5,5,3,5,5,3,4,3,3
+2018-06-10 02:28:08,15,Research and Development,DK,6,3,2,3,3,5,3,5,4,3,3,5,3
+2018-06-24 15:27:08,2,Human Resources,DK,9,3,4,4,3,4,3,4,5,3,2,3,5
+2018-06-09 13:03:35,3,Sales and Marketing,DK,7,3,3,4,3,5,3,5,5,3,4,5,3
+2018-06-19 08:39:41,2,Research and Development,DK,8,4,2,4,5,4,3,5,4,4,4,5,4
+2018-06-20 08:57:34,6,Finance and Administration,DK,8,4,4,3,4,5,4,4,5,3,4,3,5
+2018-06-07 08:06:35,5,Customer Service,DK,9,3,2,3,3,3,3,4,5,4,3,4,5
+2018-06-04 16:43:44,4,Customer Service,DK,6,4,2,4,5,3,4,4,5,3,2,5,5
+2018-06-24 09:56:57,6,Human Resources,DK,9,3,2,4,4,3,3,4,5,4,2,5,5
+2018-06-22 01:55:55,3,Sales and Marketing,DK,8,3,4,4,4,4,4,5,5,3,3,3,4
+2018-06-05 00:10:50,7,Customer Service,DK,7,3,2,3,5,3,4,5,4,3,3,4,4
+2018-06-23 18:20:32,5,Finance and Administration,DK,6,3,2,3,3,3,4,5,5,4,3,3,4
+2018-06-14 15:56:54,15,Human Resources,DK,9,4,4,3,5,5,3,4,4,4,4,3,4
+2018-06-06 11:08:43,5,Production,DK,6,4,3,3,4,5,4,5,5,3,4,4,5
+2018-06-09 16:14:07,0,Sales and Marketing,DK,8,4,3,4,5,3,3,4,5,4,4,3,5
+2018-06-08 08:29:34,8,Customer Service,DK,6,4,2,3,4,5,4,5,5,4,4,5,5
+2018-06-27 16:18:33,2,Human Resources,DK,6,3,3,3,5,5,4,5,5,3,2,5,4
+2018-06-10 08:00:15,9,Customer Service,DK,7,3,2,4,5,3,3,4,4,3,4,3,5
+2018-06-13 12:21:16,14,Finance and Administration,DK,7,3,4,4,5,5,4,5,4,4,4,5,3
+2018-06-24 04:12:47,12,Customer Service,DK,6,3,2,4,5,5,4,4,5,4,4,4,5
+2018-06-03 10:52:36,10,Sales and Marketing,DK,6,4,4,3,4,4,4,5,5,3,2,5,4
+2018-06-18 09:29:42,10,Sales and Marketing,DK,9,3,3,3,3,5,3,5,4,3,4,5,5
+2018-06-18 12:51:16,2,Customer Service,DK,6,4,2,4,3,5,3,4,5,3,4,3,3
+2018-06-04 01:21:09,13,Customer Service,DK,7,4,4,4,5,4,3,5,5,3,2,5,3
+2018-06-02 02:07:24,9,Finance and Administration,DK,9,3,3,3,4,4,4,5,5,3,3,4,5
+2018-06-04 06:21:59,2,Customer Service,DK,9,3,2,4,3,3,4,5,5,3,2,5,5
+2018-06-05 06:29:34,5,Production,DK,6,4,4,4,4,3,4,4,4,3,3,4,3
+2018-06-26 21:10:57,10,Customer Service,DK,6,4,2,3,3,5,4,5,5,3,4,5,4
+2018-06-05 21:54:49,15,Research and Development,DK,9,4,2,4,5,3,4,5,4,3,3,5,4
+2018-06-18 01:15:25,1,Sales and Marketing,DK,8,3,3,4,4,3,4,5,4,3,3,3,5
+2018-06-11 08:47:41,6,Customer Service,DK,6,4,3,3,4,4,3,4,4,4,4,4,5
+2018-06-11 19:50:55,0,Sales and Marketing,DK,9,4,4,4,3,4,3,5,5,4,2,5,3
+2018-06-28 08:24:53,2,Customer Service,DK,9,4,4,4,3,4,4,5,4,4,4,4,3
+2018-06-07 10:11:28,4,Human Resources,DK,6,4,4,3,4,5,4,5,4,4,2,5,4
+2018-06-28 20:24:07,4,Human Resources,DK,8,3,3,3,3,3,4,5,4,4,4,3,4
+2018-06-20 07:53:53,7,Human Resources,DK,8,4,3,3,4,3,3,5,5,3,2,4,5
+2018-06-19 16:22:23,4,Sales and Marketing,DK,8,4,4,4,4,4,3,5,4,4,3,5,3
+2018-06-20 14:10:30,2,Human Resources,DK,8,3,3,4,5,3,4,4,5,3,3,4,3
+2018-06-17 18:09:55,11,Production,DK,8,4,4,4,4,3,4,4,4,3,4,4,3
+2018-06-27 21:16:32,14,Customer Service,DK,6,4,3,4,3,3,4,4,5,3,3,5,3
+2018-06-21 10:16:32,4,Customer Service,DK,8,4,3,4,4,4,4,5,5,3,2,4,4
+2018-06-05 11:58:25,7,Customer Service,DK,9,3,3,3,4,4,3,5,4,3,2,5,5
+2018-06-12 02:14:58,13,Finance and Administration,DK,7,3,2,3,4,4,4,4,5,3,4,3,4
+2018-06-10 03:56:15,15,Research and Development,DK,7,3,3,4,5,3,4,4,5,4,2,5,5
+2018-06-16 13:05:56,3,Human Resources,DK,7,3,4,4,4,4,4,5,5,3,3,5,5
+2018-06-26 16:30:42,12,Research and Development,DK,9,3,3,3,5,4,4,5,4,4,3,3,3
+2018-06-19 12:11:01,5,Customer Service,DK,8,4,4,4,4,3,3,4,4,3,4,3,3
+2018-06-22 16:23:19,5,Customer Service,DK,7,3,3,3,5,4,4,4,5,4,2,4,5
+2018-06-27 22:09:25,0,Sales and Marketing,DK,6,3,3,4,5,3,3,4,5,4,2,4,5
+2018-06-29 18:15:58,2,Production,DK,6,3,2,3,5,5,4,4,5,3,3,3,3
+2018-06-15 02:30:42,13,Sales and Marketing,DK,6,3,4,4,3,3,3,5,4,4,3,5,4
+2018-06-19 22:56:29,10,Customer Service,DK,8,4,3,3,4,3,3,4,4,4,2,3,3
+2018-06-28 18:18:45,10,Finance and Administration,DK,8,3,4,4,5,5,4,5,5,4,2,5,4
+2018-06-06 11:01:09,13,Finance and Administration,DK,7,3,4,4,3,5,3,4,4,4,2,4,3
+2018-06-17 17:10:53,3,Human Resources,DK,7,4,4,3,4,5,4,4,5,3,4,4,3
+2018-06-19 17:21:16,13,Customer Service,DK,7,3,4,3,5,3,4,5,4,4,2,3,4
+2018-06-15 18:30:00,13,Customer Service,DK,9,4,2,4,5,5,3,5,4,4,3,5,5
+2018-06-29 09:57:16,13,Customer Service,DK,9,4,4,3,5,4,3,5,5,4,3,4,5
+2018-06-24 16:15:00,10,Sales and Marketing,DK,6,4,4,3,3,3,4,5,4,3,2,5,3
+2018-06-05 08:12:56,14,Sales and Marketing,DK,8,3,4,3,5,5,3,4,5,3,2,5,3
+2018-06-08 18:12:11,2,Human Resources,DK,6,3,3,4,5,5,3,4,5,4,4,3,3
+2018-06-03 20:12:45,5,Sales and Marketing,DK,8,4,4,4,4,5,4,5,5,4,4,4,3
+2018-06-29 18:57:07,4,Sales and Marketing,DK,8,3,2,4,3,3,3,5,4,4,4,5,4
+2018-06-23 02:39:40,13,Sales and Marketing,DK,9,4,2,4,5,3,3,5,5,4,2,3,5
+2018-06-17 12:37:08,10,Customer Service,DK,6,4,4,4,3,4,4,5,5,4,2,3,4
+2018-06-22 00:28:00,13,Customer Service,DK,8,4,2,4,4,4,4,4,5,3,3,4,3
+2018-06-24 18:55:21,7,Production,DK,6,3,4,3,5,5,4,4,4,3,3,5,5
+2018-06-24 20:56:36,9,Production,DK,7,3,2,4,4,4,4,4,4,3,4,4,5
+2018-06-20 23:19:41,12,Production,DK,8,4,3,4,3,3,3,5,5,3,3,5,5
+2018-06-17 20:41:08,9,Customer Service,DK,8,4,3,3,3,5,4,4,4,3,4,4,3
+2018-06-14 12:04:53,13,Customer Service,DK,7,3,2,3,5,4,3,4,5,3,3,5,4
+2018-06-25 16:01:02,0,Human Resources,DK,9,3,4,4,3,5,3,5,4,4,3,3,3
+2018-06-14 20:04:51,9,Production,DK,9,3,2,3,4,5,4,5,5,3,2,5,3
+2018-06-28 05:42:19,10,Research and Development,DK,8,4,2,3,5,5,3,5,4,3,3,3,5
+2018-06-07 12:45:33,6,Finance and Administration,DK,8,4,4,4,3,5,4,4,5,4,4,5,3
+2018-06-09 23:47:40,1,Production,DK,7,3,3,3,3,3,4,5,4,3,4,5,5
+2018-06-29 07:16:07,10,Research and Development,DK,9,3,4,4,5,4,4,5,4,3,2,5,4
+2018-06-11 04:56:44,10,Research and Development,DK,9,4,2,4,4,3,3,4,5,3,3,5,5
+2018-06-15 08:13:28,5,Customer Service,DK,7,3,3,4,5,3,4,4,5,4,3,4,5
+2018-06-01 14:52:45,15,Human Resources,DK,8,4,4,4,4,4,3,5,5,3,3,3,5
+2018-06-25 22:29:36,0,Finance and Administration,DK,8,4,3,3,4,3,4,4,5,3,3,5,5
+2018-06-04 05:12:36,14,Production,DK,7,3,2,3,4,4,4,5,4,4,3,3,5
+2018-06-06 18:48:27,5,Sales and Marketing,DK,6,3,3,3,3,3,4,4,5,4,3,5,5
+2018-06-21 06:16:16,11,Sales and Marketing,DK,6,3,4,4,5,4,3,4,5,3,3,4,4
+2018-06-28 00:18:42,10,Sales and Marketing,DK,8,4,4,3,4,4,3,4,5,4,3,5,3
+2018-06-05 17:22:56,11,Customer Service,DK,9,4,3,3,3,4,4,4,4,3,4,5,4
+2018-06-24 03:03:21,15,Finance and Administration,DK,8,4,3,3,4,5,4,5,5,4,2,4,4
+2018-06-05 13:46:46,5,Production,DK,7,3,3,3,5,5,4,4,4,4,3,4,4
+2018-06-26 07:47:16,4,Customer Service,DK,6,4,3,3,4,4,4,5,4,4,2,5,3
+2018-06-28 17:39:03,13,Sales and Marketing,DK,7,3,3,3,3,5,3,4,5,4,3,3,5
+2018-06-23 06:04:31,3,Customer Service,DK,6,3,2,4,4,5,4,5,5,4,2,5,3
+2018-06-23 00:39:54,8,Finance and Administration,DK,8,4,3,4,3,4,4,5,5,3,2,4,4
+2018-06-24 22:10:39,5,Customer Service,DK,6,3,4,3,4,5,4,4,5,3,3,5,3
+2018-06-17 07:41:08,15,Human Resources,DK,8,4,3,4,4,3,3,5,5,3,3,3,5
+2018-06-12 19:57:27,7,Finance and Administration,DK,6,3,3,3,5,4,3,5,4,4,4,3,3
+2018-06-17 10:20:12,6,Finance and Administration,DK,6,4,2,3,5,5,4,4,4,4,2,4,3
+2018-06-26 18:50:35,9,Human Resources,DK,8,4,4,4,4,3,4,5,5,3,4,3,5
+2018-06-12 08:48:13,0,Sales and Marketing,DK,6,4,4,3,4,4,3,4,5,3,3,3,4
+2018-06-17 04:31:15,7,Human Resources,DK,8,3,4,3,5,5,3,5,4,3,2,5,4
+2018-06-09 05:34:44,12,Finance and Administration,DK,8,3,3,3,5,3,4,4,5,4,4,5,5
+2018-06-08 17:41:43,12,Production,DK,6,3,3,4,5,3,3,4,4,3,4,4,4
+2018-06-28 19:58:38,15,Sales and Marketing,DK,7,4,4,4,5,3,3,4,5,4,2,4,4
+2018-06-03 07:58:29,1,Human Resources,DK,9,4,2,3,3,4,4,5,5,3,3,3,5
+2018-06-05 04:16:32,11,Human Resources,DK,8,4,3,4,4,3,4,4,4,4,4,4,4
+2018-06-02 21:28:41,2,Finance and Administration,DK,8,3,3,4,4,4,4,4,4,4,3,5,4
+2018-06-11 06:36:13,8,Human Resources,DK,7,3,3,3,5,4,3,4,5,3,4,4,5
+2018-06-15 16:25:22,9,Human Resources,DK,6,4,3,4,4,4,4,5,5,3,4,3,3
+2018-06-10 21:28:40,11,Research and Development,DK,8,4,3,4,5,4,3,4,4,4,2,3,4
+2018-06-02 18:24:11,15,Sales and Marketing,DK,9,4,3,3,5,4,4,4,5,3,3,4,5
+2018-06-23 03:02:18,0,Finance and Administration,DK,6,4,2,4,3,5,4,4,4,3,3,4,3
+2018-06-07 21:47:13,15,Production,DK,6,3,4,3,5,5,4,5,4,3,4,3,5
+2018-06-08 06:00:12,1,Sales and Marketing,DK,9,4,4,4,5,5,4,5,4,3,2,5,5
+2018-06-27 10:46:45,6,Sales and Marketing,DK,8,4,3,4,5,4,3,4,4,4,2,3,5
+2018-06-14 20:09:38,15,Production,DK,6,3,3,3,4,5,4,5,4,4,3,4,5
+2018-06-13 04:23:54,5,Human Resources,DK,8,3,2,4,4,5,3,5,4,3,2,5,4
+2018-06-06 18:01:06,10,Finance and Administration,DK,9,3,2,3,5,5,4,5,4,4,2,5,3
+2018-06-29 19:22:47,1,Human Resources,DK,9,4,3,4,5,5,4,4,5,4,3,3,4
+2018-06-24 18:28:04,5,Research and Development,DK,8,3,2,3,3,3,3,5,5,4,2,5,4
+2018-06-18 07:09:24,7,Research and Development,DK,7,4,4,4,5,4,4,4,4,3,3,5,3
+2018-06-15 16:39:24,5,Finance and Administration,DK,7,4,2,3,3,4,4,5,5,3,3,5,3
+2018-06-20 03:05:43,15,Sales and Marketing,DK,9,4,2,4,4,3,4,4,5,4,2,5,5
+2018-06-27 23:23:12,3,Human Resources,DK,7,3,3,4,5,3,3,5,5,4,2,3,5
+2018-06-20 09:59:17,9,Human Resources,DK,6,3,2,3,5,4,4,4,5,4,4,3,5
+2018-06-11 02:43:31,11,Production,DK,7,3,2,4,3,5,4,4,4,3,3,5,4
+2018-06-11 02:55:55,10,Customer Service,DK,7,4,4,4,3,4,3,5,4,3,4,4,5
+2018-06-04 16:41:20,15,Human Resources,DK,9,3,3,4,3,4,3,4,4,3,3,3,4
+2018-06-01 14:47:50,2,Finance and Administration,DK,7,4,2,3,3,4,3,4,4,4,2,5,3
+2018-06-03 17:29:40,12,Research and Development,DK,7,4,3,4,5,4,4,5,4,4,4,4,5
+2018-06-12 20:17:59,4,Production,DK,7,4,4,4,4,4,3,4,5,3,3,4,5
+2018-06-03 06:27:20,1,Human Resources,DK,8,4,2,3,4,4,3,4,4,3,2,3,3
+2018-06-10 21:32:54,13,Production,DK,6,4,4,3,5,4,4,4,5,3,4,4,5
+2018-06-20 04:32:58,10,Sales and Marketing,DK,9,4,4,3,3,3,3,4,5,4,4,3,5
+2018-06-01 18:27:25,12,Research and Development,DK,8,4,3,3,4,4,4,4,5,3,2,3,4
+2018-06-21 17:21:29,12,Customer Service,DK,7,3,2,3,3,5,4,4,4,3,3,4,4
+2018-06-14 18:45:24,3,Customer Service,DK,9,3,4,3,3,5,4,4,5,3,4,3,5
+2018-06-20 16:05:42,13,Human Resources,DK,6,3,2,3,4,4,3,4,5,4,4,5,4
+2018-06-09 02:51:34,0,Sales and Marketing,DK,8,4,2,3,3,4,3,5,5,3,3,5,4
+2018-06-14 00:10:26,8,Human Resources,DK,6,4,3,4,5,5,4,4,5,4,4,3,3
+2018-06-17 01:57:28,14,Customer Service,DK,8,4,4,4,5,3,3,5,4,3,3,5,4
+2018-06-03 16:47:04,8,Sales and Marketing,DK,6,4,4,3,5,5,4,4,5,3,4,3,3
+2018-06-11 17:03:28,6,Research and Development,DK,8,3,2,4,4,3,4,4,5,4,3,5,5
+2018-06-21 11:06:15,11,Sales and Marketing,DK,9,3,3,3,5,5,3,4,4,4,3,3,5
+2018-06-10 13:31:05,9,Production,DK,9,4,3,3,4,5,4,4,5,4,2,4,3
+2018-06-25 12:10:54,11,Human Resources,DK,8,4,4,3,3,3,4,4,4,4,3,5,3
+2018-06-15 03:58:02,3,Human Resources,DK,8,3,2,4,5,3,3,4,5,4,4,4,3
+2018-06-24 05:16:32,15,Customer Service,DK,9,4,4,4,3,3,4,5,5,4,4,5,4
+2018-06-22 12:52:07,3,Finance and Administration,DK,8,4,4,3,5,3,4,5,4,3,2,5,4
+2018-06-18 20:45:19,3,Sales and Marketing,DK,7,4,3,3,3,5,3,5,4,3,2,3,4
+2018-06-12 07:54:46,12,Sales and Marketing,DK,7,3,3,4,5,3,4,4,4,4,4,4,4
+2018-06-07 22:37:27,15,Human Resources,DK,9,3,4,3,4,4,4,4,5,3,3,5,3
+2018-06-19 12:55:57,2,Research and Development,DK,8,3,2,4,4,5,3,5,4,3,4,3,5
+2018-06-26 21:55:25,11,Finance and Administration,DK,8,3,4,4,3,4,3,4,5,3,4,3,4
+2018-06-17 05:06:06,4,Sales and Marketing,DK,6,4,3,4,4,5,4,5,5,4,4,3,5
+2018-06-17 09:57:34,15,Human Resources,DK,6,4,3,3,3,4,3,4,4,4,4,5,4
+2018-06-29 07:11:39,15,Human Resources,DK,8,3,3,4,3,5,3,4,4,4,4,3,5
+2018-06-20 12:23:54,0,Human Resources,DK,9,4,2,3,4,3,3,5,5,3,4,4,3
+2018-06-22 15:28:38,15,Finance and Administration,DK,7,4,2,4,3,5,4,4,5,3,4,4,3
+2018-06-09 13:57:01,1,Finance and Administration,DK,9,3,3,4,4,3,3,5,4,4,3,3,4
+2018-06-19 05:41:42,5,Human Resources,DK,9,3,3,3,4,3,3,4,5,4,2,4,3
+2018-06-12 16:40:35,9,Finance and Administration,DK,8,4,2,4,4,4,3,5,5,4,4,5,4
+2018-06-10 06:46:39,10,Research and Development,DK,8,3,4,4,4,3,3,5,4,3,4,3,3
+2018-06-18 22:35:36,9,Production,DK,6,4,3,3,4,3,4,4,4,3,3,3,5
+2018-06-22 10:16:51,1,Production,DK,7,4,4,4,5,3,4,4,5,3,2,4,4
+2018-06-06 12:35:41,0,Customer Service,DK,7,3,4,4,4,4,3,5,4,3,2,3,5
+2018-06-12 12:51:05,4,Human Resources,DK,9,3,2,3,4,5,4,5,4,3,3,5,3
+2018-06-16 01:59:04,6,Human Resources,DK,7,3,3,4,3,5,3,5,4,3,2,5,4

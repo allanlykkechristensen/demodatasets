@@ -1,0 +1,285 @@
+Date,How many years have you worked for Acme Corporation?,In which business unit do you currently work?,In which office are you currently working?,How satisfied are you with working at Acme Corporation?,My performance is measured against clearly defined outcomes and metrics.,I have access to everything that I need to perform at my job.,My strengths are recognized and I put them into practice every day.,I receive meaningful recognition for doing a good job.,I am happy with the relationship with my manager.,My manager supports me to get better at my valued skills.,My opinions matter and are taken into consideration.,My job counts towards achieving the goals of the organization.,My colleagues are accountable for doing quality work.,I consider at least one of my colleagues to be a true friend.,I have received support for personal growth and development in the last six months.,There are ongoing opportunities for learning and growth in my role.
+2020-06-07 16:22:47,12,Customer Service,US,9,2,3,2,2,2,3,5,1,2,4,2,2
+2020-06-09 07:00:38,8,Production,US,6,3,2,2,1,3,5,5,1,2,2,5,5
+2020-06-18 02:25:14,10,Human Resources,US,5,3,4,2,3,3,1,5,3,1,4,1,5
+2020-06-26 07:47:15,12,Research and Development,US,10,1,4,2,2,2,4,2,5,1,1,5,1
+2020-06-20 18:53:17,2,Research and Development,US,5,4,3,3,5,1,4,3,1,3,5,4,4
+2020-06-20 00:33:41,11,Research and Development,US,4,3,1,2,5,2,3,4,5,2,2,2,4
+2020-06-08 16:07:51,11,Sales and Marketing,US,9,3,4,4,3,4,4,4,5,3,5,4,2
+2020-06-27 12:15:50,2,Production,US,4,2,4,3,4,3,2,4,1,1,1,5,3
+2020-06-21 00:23:58,10,Finance and Administration,US,6,1,5,3,4,1,4,4,4,2,5,4,1
+2020-06-04 21:06:03,3,Research and Development,US,6,1,4,5,3,2,1,1,3,1,3,4,5
+2020-06-29 13:52:36,15,Research and Development,US,10,3,3,3,1,3,2,2,1,1,4,3,5
+2020-06-23 06:17:26,1,Research and Development,US,4,2,3,3,5,1,3,4,1,5,2,2,2
+2020-06-10 18:37:59,5,Sales and Marketing,US,10,3,3,4,2,5,4,2,3,5,3,4,3
+2020-06-07 19:13:50,5,Human Resources,US,5,4,5,4,4,4,4,4,2,2,5,5,3
+2020-06-11 08:39:14,8,Sales and Marketing,US,9,4,1,2,5,2,4,3,3,1,3,4,5
+2020-06-06 20:12:36,2,Sales and Marketing,US,8,2,1,4,3,2,1,4,4,2,1,1,3
+2020-06-02 03:51:08,11,Finance and Administration,US,4,1,2,5,5,4,4,5,5,2,5,5,1
+2020-06-17 14:34:01,10,Human Resources,US,6,4,3,2,5,1,4,5,5,5,1,1,2
+2020-06-01 00:08:21,15,Customer Service,US,5,4,5,4,3,4,5,2,5,1,5,5,2
+2020-06-07 17:31:11,0,Human Resources,US,9,1,5,1,5,1,4,3,1,3,5,1,3
+2020-06-23 14:34:01,11,Research and Development,US,6,5,2,1,3,2,1,3,1,3,5,5,4
+2020-06-08 17:24:17,11,Human Resources,US,6,5,2,3,3,2,5,5,5,4,3,5,1
+2020-06-09 13:15:31,11,Finance and Administration,US,9,2,2,2,5,4,2,1,2,2,1,3,4
+2020-06-23 02:43:30,8,Research and Development,US,7,2,5,1,4,1,3,2,5,1,3,4,1
+2020-06-25 12:25:24,7,Research and Development,US,6,3,4,4,5,4,1,1,1,4,4,1,2
+2020-06-05 07:23:53,9,Sales and Marketing,US,9,4,2,2,4,4,2,2,2,5,4,5,1
+2020-06-25 08:53:23,5,Human Resources,US,4,2,5,1,3,2,1,5,2,2,3,5,1
+2020-06-23 19:48:59,7,Human Resources,US,5,3,4,1,1,5,5,4,1,3,2,2,2
+2020-06-29 03:59:05,2,Human Resources,US,10,3,1,5,1,2,3,3,2,5,1,5,4
+2020-06-21 17:23:17,12,Customer Service,US,10,5,2,5,3,3,2,1,2,1,2,1,5
+2020-06-03 10:20:53,14,Human Resources,US,7,1,2,5,1,3,2,5,5,1,5,4,3
+2020-06-15 13:06:28,6,Human Resources,US,9,4,5,5,2,1,5,5,2,2,3,3,2
+2020-06-16 14:51:17,8,Sales and Marketing,US,8,2,1,5,5,2,2,1,3,3,5,2,1
+2020-06-14 00:06:20,9,Finance and Administration,US,10,5,4,1,2,1,3,3,2,3,5,3,1
+2020-06-19 00:37:45,9,Research and Development,US,4,5,3,5,3,5,3,2,5,2,5,5,5
+2020-06-27 10:02:35,12,Research and Development,US,9,1,3,1,3,2,4,1,3,4,4,2,4
+2020-06-20 06:35:35,11,Research and Development,US,7,2,4,4,1,3,1,5,2,1,5,1,1
+2020-06-16 20:54:06,12,Research and Development,US,5,1,2,3,3,5,4,4,2,1,1,5,1
+2020-06-24 02:46:52,10,Customer Service,US,5,5,4,2,3,3,1,2,4,2,2,1,2
+2020-06-17 14:32:04,11,Production,US,4,3,2,3,4,3,2,2,5,2,4,4,2
+2020-06-11 10:23:38,14,Production,US,4,2,3,3,5,3,5,2,3,5,4,2,2
+2020-06-22 09:45:00,3,Research and Development,US,6,3,5,4,5,3,4,4,1,3,2,4,5
+2020-06-05 23:45:57,7,Production,US,6,5,2,3,5,2,5,2,2,2,5,1,2
+2020-06-01 06:21:55,12,Finance and Administration,US,8,3,5,5,2,2,2,4,3,1,2,3,2
+2020-06-16 06:32:10,6,Production,US,6,1,2,1,1,2,2,2,3,2,2,5,4
+2020-06-18 00:58:14,8,Customer Service,US,6,5,2,5,4,1,2,4,3,3,1,5,4
+2020-06-09 05:18:18,6,Production,US,6,3,3,1,3,3,3,1,3,2,5,5,2
+2020-06-07 17:39:57,7,Customer Service,US,6,5,1,2,3,3,2,2,2,1,4,1,5
+2020-06-05 03:55:43,11,Customer Service,US,9,3,4,3,2,4,4,2,1,2,2,1,4
+2020-06-07 18:50:44,5,Finance and Administration,US,10,4,2,4,3,4,4,5,1,5,4,3,1
+2020-06-05 20:23:49,10,Production,US,7,4,2,2,2,4,1,5,4,4,2,5,3
+2020-06-06 18:47:12,6,Research and Development,US,4,4,1,4,1,5,1,3,4,1,2,4,2
+2020-06-10 03:51:38,5,Sales and Marketing,US,10,4,2,5,3,3,2,3,5,4,4,5,2
+2020-06-15 19:24:40,0,Finance and Administration,US,8,1,2,4,3,1,3,2,4,5,2,2,3
+2020-06-13 13:05:11,12,Human Resources,US,6,3,1,2,5,3,4,1,1,3,4,5,1
+2020-06-25 09:43:46,4,Production,US,6,3,2,3,2,4,1,1,5,1,4,2,3
+2020-06-02 14:42:48,1,Production,US,6,3,2,5,3,3,4,1,3,5,2,2,1
+2020-06-26 19:53:57,5,Human Resources,US,5,4,3,2,3,1,4,2,4,3,5,4,5
+2020-06-04 01:17:11,1,Research and Development,US,4,1,1,2,1,3,5,4,4,2,3,2,1
+2020-06-20 20:40:23,14,Sales and Marketing,US,8,1,2,3,2,4,3,5,5,5,2,4,1
+2020-06-15 09:58:13,15,Production,US,8,4,3,2,1,1,3,4,2,5,1,1,5
+2020-06-18 22:22:46,10,Finance and Administration,US,10,5,1,1,1,2,3,2,4,5,5,5,5
+2020-06-19 19:44:51,12,Human Resources,US,9,1,1,5,2,4,5,4,4,1,2,3,1
+2020-06-12 02:19:23,10,Customer Service,US,7,2,1,3,3,4,1,2,5,5,3,3,4
+2020-06-13 01:20:17,3,Customer Service,US,10,5,5,2,3,1,4,2,1,1,1,2,2
+2020-06-21 21:43:44,9,Production,US,9,5,3,2,5,1,4,5,5,4,5,3,1
+2020-06-15 01:47:08,7,Sales and Marketing,US,5,5,5,4,3,1,5,3,2,4,5,2,3
+2020-06-03 04:24:13,15,Human Resources,US,4,5,3,3,1,2,5,2,2,4,1,3,3
+2020-06-17 04:49:46,13,Finance and Administration,US,9,2,4,5,5,5,4,4,1,4,4,3,2
+2020-06-01 18:48:05,6,Finance and Administration,US,9,1,3,3,1,5,2,2,4,2,4,4,5
+2020-06-04 13:22:34,5,Research and Development,US,9,3,5,3,5,3,3,5,3,4,5,5,5
+2020-06-29 11:11:11,0,Finance and Administration,US,10,3,1,3,3,2,1,3,3,1,2,5,2
+2020-06-11 00:45:44,0,Research and Development,US,5,2,2,5,5,1,2,5,5,5,4,2,3
+2020-06-09 08:24:52,1,Human Resources,US,6,4,4,2,1,5,4,1,5,5,3,3,1
+2020-06-20 04:19:46,1,Human Resources,US,4,5,1,2,5,3,4,3,4,4,5,5,5
+2020-06-26 22:30:16,0,Finance and Administration,US,6,5,4,5,4,4,5,5,3,1,3,1,1
+2020-06-12 19:22:47,7,Human Resources,US,10,3,1,1,2,2,5,1,4,1,4,2,4
+2020-06-04 23:06:01,6,Sales and Marketing,US,5,4,3,3,4,4,4,2,3,3,2,2,4
+2020-06-27 16:22:35,7,Customer Service,US,8,1,1,4,5,5,2,1,4,1,3,3,2
+2020-06-29 22:56:46,6,Customer Service,US,9,3,3,5,5,2,1,1,1,2,2,5,4
+2020-06-14 04:20:12,4,Finance and Administration,US,5,1,5,3,3,1,4,3,1,3,2,3,1
+2020-06-21 18:02:52,9,Finance and Administration,US,10,1,3,1,5,5,3,3,4,3,3,5,1
+2020-06-09 00:31:12,4,Customer Service,US,4,2,1,3,3,1,1,1,5,3,4,3,4
+2020-06-19 09:22:19,13,Research and Development,US,10,3,4,5,4,3,4,5,4,2,2,5,3
+2020-06-02 01:37:22,14,Finance and Administration,US,9,5,5,4,4,5,5,1,5,5,1,5,5
+2020-06-09 20:18:10,13,Production,US,10,2,1,3,4,3,4,5,3,1,4,5,5
+2020-06-08 00:06:50,6,Production,US,7,3,2,5,1,2,2,1,3,3,3,2,4
+2020-06-09 11:44:47,5,Sales and Marketing,US,6,4,5,4,4,5,2,4,1,3,2,5,4
+2020-06-06 11:50:53,11,Production,US,6,2,4,5,2,5,3,1,4,3,1,4,1
+2020-06-02 05:44:02,13,Customer Service,US,6,1,3,2,4,3,1,3,1,2,2,4,1
+2020-06-14 03:35:33,2,Research and Development,US,8,4,4,5,1,3,4,4,4,3,3,4,4
+2020-06-13 15:00:58,0,Customer Service,US,10,5,2,2,1,5,4,3,1,1,2,3,2
+2020-06-08 22:42:04,14,Sales and Marketing,US,6,5,2,1,4,3,5,5,5,1,5,5,1
+2020-06-18 19:51:30,7,Research and Development,US,5,2,1,3,2,3,3,3,3,2,2,4,3
+2020-06-16 00:16:24,13,Production,US,6,2,5,3,1,3,4,5,1,2,4,4,4
+2020-06-20 18:42:41,5,Research and Development,US,6,3,2,1,2,5,4,2,5,4,2,5,1
+2020-06-21 06:11:57,10,Sales and Marketing,US,7,5,1,3,3,5,1,5,4,1,5,1,2
+2020-06-10 21:54:41,5,Research and Development,US,8,3,1,1,3,1,5,5,4,3,4,4,4
+2020-06-20 00:15:08,4,Finance and Administration,US,4,1,4,5,3,1,1,5,5,3,5,4,4
+2020-06-25 00:58:28,9,Production,US,8,5,2,5,5,1,3,5,5,3,5,4,5
+2020-06-29 23:37:39,0,Finance and Administration,US,10,1,1,4,3,5,5,3,5,4,1,2,1
+2020-06-05 02:35:41,12,Production,US,9,2,1,3,3,2,2,1,3,1,3,1,5
+2020-06-29 05:01:19,5,Research and Development,US,9,3,3,2,1,5,3,5,5,4,3,3,3
+2020-06-11 20:30:20,8,Customer Service,US,9,1,4,1,5,3,5,2,3,1,4,5,2
+2020-06-07 13:55:56,1,Research and Development,US,8,4,3,4,4,3,2,2,1,1,5,4,1
+2020-06-19 23:13:27,5,Research and Development,US,6,4,3,3,2,3,3,4,5,4,3,5,3
+2020-06-12 07:55:56,3,Human Resources,US,6,3,2,2,1,2,3,1,3,5,1,1,1
+2020-06-18 15:26:31,10,Finance and Administration,US,8,3,3,4,1,2,1,5,1,3,2,2,5
+2020-06-08 22:13:24,2,Human Resources,US,10,3,3,3,5,5,2,4,1,4,2,1,3
+2020-06-26 17:57:05,2,Production,US,5,4,1,1,1,4,4,3,4,1,4,1,2
+2020-06-19 13:46:38,11,Research and Development,US,5,2,2,3,2,2,3,1,2,1,4,5,3
+2020-06-21 01:42:13,11,Customer Service,US,4,2,5,3,2,4,5,5,3,4,4,4,3
+2020-06-20 01:19:05,0,Research and Development,US,4,5,4,3,1,4,4,2,5,5,5,1,1
+2020-06-15 02:10:42,12,Finance and Administration,US,10,5,4,2,3,2,4,2,5,2,1,5,1
+2020-06-13 23:49:20,9,Customer Service,US,6,5,1,4,1,2,1,3,1,5,5,4,5
+2020-06-05 06:31:46,8,Customer Service,US,10,1,1,2,3,5,1,1,4,3,3,2,5
+2020-06-08 04:31:34,11,Human Resources,US,9,5,2,3,1,1,5,3,5,4,2,4,1
+2020-06-29 17:47:29,3,Finance and Administration,US,10,1,2,1,5,3,3,2,2,5,1,3,3
+2020-06-27 13:25:57,4,Customer Service,US,7,3,3,1,5,1,5,4,4,5,1,5,4
+2020-06-27 00:05:58,4,Customer Service,US,9,1,1,5,1,5,3,1,5,4,2,2,4
+2020-06-06 10:12:14,15,Production,US,7,5,2,3,5,2,5,3,2,3,2,4,5
+2020-06-03 11:11:15,1,Production,US,5,1,4,5,4,2,2,4,5,1,1,4,5
+2020-06-04 01:34:41,3,Human Resources,US,7,1,4,1,5,3,5,5,1,3,2,1,2
+2020-06-14 04:14:54,1,Human Resources,US,5,3,3,1,3,3,4,4,1,3,1,5,2
+2020-06-14 02:16:40,15,Finance and Administration,US,7,5,3,2,5,2,3,2,1,4,1,3,4
+2020-06-01 09:15:28,3,Sales and Marketing,US,7,4,3,2,5,5,3,4,4,4,5,2,5
+2020-06-20 17:49:04,5,Finance and Administration,US,10,4,3,5,2,4,4,4,5,1,4,1,2
+2020-06-27 01:28:17,1,Human Resources,US,8,4,3,4,4,1,4,3,4,3,4,5,2
+2020-06-28 04:04:22,13,Production,US,5,3,3,1,1,4,1,2,3,2,5,5,5
+2020-06-05 14:42:04,11,Production,US,8,4,2,3,1,4,4,4,1,1,2,4,1
+2020-06-09 00:32:03,2,Customer Service,US,4,2,2,3,3,5,3,3,1,3,1,2,2
+2020-06-08 15:40:39,11,Research and Development,US,4,4,5,5,3,4,5,5,4,5,5,4,4
+2020-06-28 08:27:12,11,Customer Service,US,6,5,4,1,4,5,1,2,2,3,1,3,5
+2020-06-01 00:35:27,10,Research and Development,US,4,2,5,4,3,5,4,5,4,3,2,2,2
+2020-06-22 07:58:44,3,Finance and Administration,US,10,5,3,3,2,2,5,5,4,3,4,4,2
+2020-06-27 13:42:06,5,Research and Development,US,6,4,2,5,1,2,2,4,4,2,5,5,3
+2020-06-29 07:03:51,7,Sales and Marketing,US,7,3,5,3,1,3,3,1,4,5,1,2,4
+2020-06-11 07:51:40,10,Human Resources,US,10,3,3,2,5,5,3,2,3,1,5,5,2
+2020-06-17 22:09:09,10,Sales and Marketing,US,9,4,5,2,5,1,1,4,5,3,4,1,2
+2020-06-08 03:05:44,12,Human Resources,US,6,1,2,1,3,5,5,1,1,5,3,3,1
+2020-06-02 02:47:00,14,Customer Service,US,9,5,3,2,1,4,4,5,2,2,2,4,1
+2020-06-01 23:26:52,0,Sales and Marketing,US,5,3,1,4,3,4,3,5,2,5,4,1,5
+2020-06-25 21:40:17,1,Production,US,10,3,2,1,5,4,3,5,5,4,4,1,4
+2020-06-05 23:26:52,2,Production,US,8,4,4,4,3,1,4,5,1,3,4,2,2
+2020-06-17 05:50:34,8,Human Resources,US,6,3,2,5,1,4,3,5,3,3,5,2,3
+2020-06-26 22:42:43,14,Research and Development,US,6,5,3,5,5,2,1,5,3,4,1,3,1
+2020-06-16 22:30:26,12,Production,US,5,5,1,5,5,1,4,1,1,2,4,3,2
+2020-06-05 18:15:35,7,Sales and Marketing,US,4,1,5,3,3,3,4,2,2,3,4,3,1
+2020-06-21 03:03:52,8,Customer Service,US,7,4,2,1,5,3,2,5,2,3,3,4,4
+2020-06-14 16:28:36,13,Production,US,4,5,1,1,4,4,3,3,4,5,4,4,1
+2020-06-25 13:17:58,12,Research and Development,US,7,2,5,4,5,4,1,4,2,1,2,1,2
+2020-06-10 21:36:53,1,Production,US,7,5,1,4,4,4,1,2,4,5,5,1,3
+2020-06-14 19:10:48,5,Production,US,4,2,3,2,4,3,4,2,2,4,1,4,5
+2020-06-27 14:10:41,8,Research and Development,US,4,2,5,3,4,1,1,4,5,4,1,1,3
+2020-06-26 11:18:07,12,Production,US,10,2,1,4,5,1,4,5,1,5,4,3,2
+2020-06-27 18:01:33,5,Production,US,4,1,1,2,3,1,5,3,3,5,3,5,4
+2020-06-04 23:26:41,6,Customer Service,US,6,3,3,3,2,2,1,1,1,5,5,4,1
+2020-06-24 05:06:33,6,Human Resources,US,5,2,1,5,1,2,1,2,2,1,2,3,5
+2020-06-06 15:05:54,3,Research and Development,US,4,1,1,5,4,2,5,1,2,2,4,1,3
+2020-06-06 17:21:14,3,Customer Service,US,5,3,5,2,4,5,5,2,1,3,4,2,2
+2020-06-23 09:00:21,6,Human Resources,US,9,1,3,2,2,4,2,1,5,1,1,4,1
+2020-06-07 19:55:22,5,Human Resources,US,4,2,5,1,3,2,5,2,3,5,5,5,2
+2020-06-05 15:34:58,2,Human Resources,US,9,4,5,5,3,4,3,3,1,3,5,2,1
+2020-06-25 09:21:28,2,Finance and Administration,US,7,1,3,2,3,5,5,1,4,3,3,2,3
+2020-06-25 10:40:09,4,Sales and Marketing,US,5,5,4,4,3,2,4,2,4,2,4,2,4
+2020-06-14 14:51:57,12,Production,US,10,4,4,2,2,5,4,4,5,5,3,1,5
+2020-06-10 14:15:23,6,Human Resources,US,5,1,1,5,5,1,4,3,1,3,3,2,5
+2020-06-13 08:11:29,2,Sales and Marketing,US,5,5,4,4,1,4,4,5,1,4,4,2,4
+2020-06-21 09:52:03,2,Human Resources,US,5,5,5,5,3,3,2,1,3,4,2,2,5
+2020-06-28 13:18:50,11,Customer Service,US,4,5,5,3,4,4,2,4,2,3,1,2,5
+2020-06-05 08:15:24,6,Research and Development,US,4,5,3,4,2,1,3,3,5,4,4,3,1
+2020-06-28 12:04:15,5,Finance and Administration,US,10,5,5,5,2,1,3,5,2,2,5,1,4
+2020-06-05 17:53:38,7,Finance and Administration,US,5,1,3,3,4,2,3,5,5,2,2,5,5
+2020-06-17 14:28:38,14,Customer Service,US,6,3,5,1,2,5,5,4,3,4,5,1,2
+2020-06-01 08:14:38,4,Production,US,10,2,3,5,5,5,1,5,2,4,5,2,1
+2020-06-28 06:42:30,12,Research and Development,US,4,4,2,5,2,1,1,3,4,4,3,4,2
+2020-06-06 10:19:32,15,Research and Development,US,7,4,5,2,5,1,1,5,5,4,1,2,1
+2020-06-29 17:20:46,10,Customer Service,US,4,1,4,3,1,4,4,2,2,3,1,5,2
+2020-06-18 08:04:21,7,Customer Service,US,4,5,3,5,2,2,5,2,2,3,1,4,3
+2020-06-10 04:56:06,9,Finance and Administration,US,10,4,2,2,3,5,1,4,1,4,4,2,2
+2020-06-29 02:00:41,6,Production,US,4,3,3,2,5,5,4,3,3,3,3,1,3
+2020-06-15 08:58:54,0,Human Resources,US,10,1,2,3,2,1,5,2,1,3,4,1,4
+2020-06-16 05:59:30,7,Finance and Administration,US,9,2,2,4,5,3,5,3,5,2,4,2,3
+2020-06-16 10:00:05,3,Finance and Administration,US,10,2,5,2,5,3,5,1,4,2,2,2,4
+2020-06-28 06:19:07,12,Research and Development,US,7,2,4,3,2,5,1,2,1,2,2,5,1
+2020-06-15 17:49:37,2,Production,US,9,1,1,4,4,3,3,3,2,4,4,3,2
+2020-06-27 18:49:20,2,Human Resources,US,9,3,1,4,5,1,5,3,3,1,3,4,3
+2020-06-12 09:17:30,10,Human Resources,US,10,3,5,4,2,3,1,5,3,5,1,5,1
+2020-06-11 03:59:59,7,Finance and Administration,US,8,4,1,1,1,2,2,3,3,3,1,2,4
+2020-06-23 18:01:49,8,Research and Development,US,8,5,4,3,4,2,3,4,4,5,2,1,5
+2020-06-17 01:35:00,8,Production,US,7,4,3,1,2,5,3,2,3,2,4,3,2
+2020-06-18 06:48:42,4,Human Resources,US,8,2,3,5,1,4,2,4,4,3,5,4,4
+2020-06-05 04:49:00,12,Sales and Marketing,US,4,4,2,4,3,1,5,2,1,5,3,1,2
+2020-06-22 03:52:29,5,Production,US,5,3,4,1,2,3,4,2,1,2,4,5,5
+2020-06-06 07:21:16,4,Human Resources,US,10,3,1,5,1,5,5,4,2,3,1,5,2
+2020-06-16 07:21:08,5,Finance and Administration,US,10,1,1,3,1,3,3,1,4,5,2,4,1
+2020-06-21 09:58:07,1,Research and Development,US,8,2,4,2,4,4,5,5,2,3,5,1,3
+2020-06-26 23:09:33,12,Finance and Administration,US,4,5,3,3,3,3,1,4,2,3,5,1,1
+2020-06-27 08:26:16,11,Sales and Marketing,US,5,3,3,2,4,2,4,4,5,2,3,2,2
+2020-06-28 07:45:54,7,Sales and Marketing,US,7,2,5,5,3,3,4,1,5,5,5,2,3
+2020-06-21 08:22:17,10,Sales and Marketing,US,10,4,1,5,3,1,5,5,1,2,1,1,4
+2020-06-22 04:24:58,4,Production,US,10,5,2,5,5,3,3,2,1,4,2,5,5
+2020-06-01 01:22:03,14,Customer Service,US,6,1,5,2,5,3,3,2,1,2,1,3,3
+2020-06-04 02:09:44,3,Human Resources,US,9,1,4,3,3,1,2,4,1,2,2,1,4
+2020-06-03 10:33:24,11,Sales and Marketing,US,10,1,4,5,1,3,4,5,1,3,1,3,2
+2020-06-08 18:19:08,11,Human Resources,US,10,5,3,3,4,2,2,2,1,3,5,5,4
+2020-06-27 06:24:26,13,Human Resources,US,4,4,3,3,3,5,2,5,2,1,3,1,4
+2020-06-27 20:31:11,5,Customer Service,US,5,2,4,1,4,1,4,5,5,4,1,5,1
+2020-06-08 12:16:50,3,Customer Service,US,7,4,3,3,3,1,4,2,2,4,4,5,2
+2020-06-02 13:36:02,14,Finance and Administration,US,6,1,1,2,4,3,1,5,3,5,2,2,4
+2020-06-05 00:58:07,5,Customer Service,US,9,4,3,1,2,1,2,1,3,1,5,2,4
+2020-06-13 22:32:43,11,Research and Development,US,4,3,2,4,4,2,1,3,4,4,1,3,1
+2020-06-15 08:44:01,4,Research and Development,US,10,5,5,2,3,2,3,5,3,2,2,3,3
+2020-06-04 05:08:03,7,Research and Development,US,5,4,2,3,1,5,3,2,5,4,4,1,5
+2020-06-18 10:40:53,8,Human Resources,US,8,5,2,2,4,1,2,4,3,4,2,5,3
+2020-06-16 16:46:39,11,Finance and Administration,US,8,5,2,4,5,3,2,4,3,5,4,4,5
+2020-06-04 21:26:15,3,Finance and Administration,US,4,5,2,1,1,2,4,3,3,3,3,3,2
+2020-06-23 05:19:22,8,Sales and Marketing,US,4,3,5,4,4,5,2,4,1,4,5,3,1
+2020-06-05 04:36:48,10,Human Resources,US,5,3,1,4,3,1,3,1,1,1,1,1,1
+2020-06-04 10:01:31,11,Finance and Administration,US,9,2,5,4,2,4,2,3,1,2,3,4,5
+2020-06-08 18:57:16,11,Research and Development,US,10,3,3,3,1,1,3,3,2,3,1,3,5
+2020-06-07 08:43:04,7,Research and Development,US,7,1,1,4,2,4,2,3,2,1,2,4,5
+2020-06-25 17:32:21,8,Finance and Administration,US,9,1,2,4,2,4,2,5,4,5,3,2,1
+2020-06-29 14:32:05,10,Research and Development,US,7,3,1,3,5,3,5,1,2,1,4,1,2
+2020-06-03 19:32:28,10,Customer Service,US,9,5,1,2,3,5,5,3,4,4,3,4,4
+2020-06-11 03:49:23,10,Finance and Administration,US,9,2,4,5,4,5,4,4,1,1,3,1,5
+2020-06-02 22:53:27,6,Research and Development,US,6,4,3,4,5,1,2,1,1,2,4,2,1
+2020-06-03 09:31:12,5,Human Resources,US,5,3,5,5,2,3,5,2,1,2,4,3,1
+2020-06-21 05:50:50,14,Human Resources,US,7,1,2,3,5,3,3,5,4,5,1,1,3
+2020-06-08 16:48:44,13,Finance and Administration,US,8,2,4,5,1,3,3,5,5,1,1,1,3
+2020-06-10 18:15:41,4,Production,US,8,2,5,1,3,1,3,2,4,4,4,4,4
+2020-06-21 06:31:04,13,Production,US,5,1,3,4,4,5,5,2,5,2,4,2,5
+2020-06-25 01:42:20,7,Sales and Marketing,US,10,2,3,4,4,4,2,3,4,2,3,4,1
+2020-06-29 03:05:04,10,Research and Development,US,9,3,3,3,4,3,2,5,1,4,4,5,2
+2020-06-29 15:14:25,5,Sales and Marketing,US,6,4,2,4,5,3,4,3,3,3,4,2,1
+2020-06-07 11:09:53,14,Customer Service,US,5,5,3,3,4,1,2,5,4,1,4,1,4
+2020-06-14 12:26:03,5,Production,US,9,1,3,3,5,3,4,1,4,4,2,5,2
+2020-06-22 13:40:28,9,Research and Development,US,6,5,4,2,4,2,1,5,3,3,1,5,1
+2020-06-14 13:49:06,2,Human Resources,US,5,5,1,1,3,2,3,2,4,1,5,3,3
+2020-06-01 02:45:35,14,Production,US,9,2,4,3,1,5,3,2,1,2,5,3,1
+2020-06-06 13:52:47,2,Customer Service,US,5,1,1,5,2,1,1,4,4,1,3,5,1
+2020-06-04 16:07:21,5,Sales and Marketing,US,8,3,1,4,5,4,1,1,3,4,1,2,2
+2020-06-14 11:32:49,7,Research and Development,US,5,3,4,1,5,5,2,3,5,2,5,2,4
+2020-06-20 06:31:20,8,Sales and Marketing,US,7,1,4,4,1,4,5,2,4,4,5,4,4
+2020-06-16 12:10:28,7,Finance and Administration,US,4,2,4,3,1,4,3,3,5,1,2,2,2
+2020-06-13 00:57:14,6,Research and Development,US,7,1,4,3,2,4,3,4,4,2,4,3,2
+2020-06-21 18:56:19,3,Customer Service,US,9,3,4,5,2,3,3,4,3,5,5,2,2
+2020-06-12 18:42:50,0,Production,US,4,5,2,4,2,3,5,4,4,4,2,1,2
+2020-06-19 03:18:33,9,Customer Service,US,6,3,5,3,1,5,2,1,5,3,3,4,4
+2020-06-01 22:48:01,14,Customer Service,US,5,5,5,3,2,2,4,3,1,5,5,4,2
+2020-06-17 02:45:47,13,Production,US,7,5,2,5,2,1,1,5,4,3,1,5,1
+2020-06-16 02:37:50,10,Customer Service,US,8,1,1,5,3,2,3,1,3,5,2,2,2
+2020-06-25 22:06:14,1,Sales and Marketing,US,10,4,5,4,2,1,4,5,1,1,3,5,3
+2020-06-09 19:28:39,11,Customer Service,US,10,1,3,2,5,3,5,3,1,3,3,5,1
+2020-06-17 10:32:40,10,Production,US,5,3,2,3,1,4,4,4,1,1,4,1,1
+2020-06-25 04:05:44,4,Finance and Administration,US,7,1,1,3,4,5,1,4,4,1,3,3,3
+2020-06-14 22:58:35,10,Finance and Administration,US,8,2,2,2,3,1,4,4,4,3,3,3,3
+2020-06-01 17:28:27,0,Customer Service,US,6,1,2,2,2,3,4,2,1,4,5,5,1
+2020-06-15 11:06:34,2,Research and Development,US,9,3,5,4,3,2,3,3,5,1,1,3,3
+2020-06-29 05:26:27,15,Customer Service,US,10,3,3,4,2,4,1,4,3,3,4,2,1
+2020-06-13 21:34:51,6,Customer Service,US,7,2,1,2,3,4,2,1,5,2,1,4,5
+2020-06-29 20:17:41,2,Human Resources,US,4,5,4,3,3,4,2,5,4,4,2,3,1
+2020-06-13 05:21:26,7,Research and Development,US,9,1,2,4,2,4,3,1,4,1,5,1,3
+2020-06-19 06:53:03,6,Sales and Marketing,US,4,5,4,1,5,5,4,2,5,2,4,2,4
+2020-06-10 04:17:35,15,Sales and Marketing,US,6,4,1,3,4,4,4,5,2,1,3,4,2
+2020-06-25 02:50:24,6,Sales and Marketing,US,10,4,4,4,4,2,3,1,4,1,4,5,3
+2020-06-08 05:58:24,4,Customer Service,US,7,2,3,3,4,1,5,1,4,2,2,4,2
+2020-06-14 07:55:39,15,Research and Development,US,7,1,3,5,3,5,1,3,5,4,4,3,2
+2020-06-12 06:05:48,13,Customer Service,US,7,5,2,2,2,3,2,4,3,4,4,1,5
+2020-06-25 18:19:33,0,Finance and Administration,US,4,3,2,2,3,2,4,1,5,3,5,3,1
+2020-06-04 21:47:13,2,Research and Development,US,10,4,5,4,4,4,4,4,1,1,5,1,4
+2020-06-12 19:36:40,2,Customer Service,US,5,3,2,5,5,4,3,4,2,3,4,4,1
+2020-06-06 12:17:29,4,Production,US,5,1,2,1,4,2,2,1,1,3,1,4,1
+2020-06-23 20:32:33,11,Human Resources,US,10,1,3,3,2,4,1,1,1,2,1,1,3
+2020-06-29 22:51:19,15,Sales and Marketing,US,6,5,2,3,1,2,2,4,2,1,1,2,2
+2020-06-02 02:07:22,2,Research and Development,US,10,1,1,4,5,4,5,1,4,1,4,1,5
+2020-06-11 20:05:35,9,Customer Service,US,9,5,2,1,5,4,4,2,4,5,2,5,4
+2020-06-07 03:47:11,7,Research and Development,US,10,1,1,3,2,2,5,1,4,3,2,5,2
+2020-06-16 21:26:47,12,Finance and Administration,US,5,1,1,5,4,3,2,3,2,4,2,2,3
+2020-06-11 09:47:21,7,Research and Development,US,9,2,1,4,5,3,3,5,2,4,1,5,3
+2020-06-22 04:14:40,6,Research and Development,US,7,2,5,4,5,5,3,2,4,3,3,5,1
+2020-06-05 00:48:52,13,Research and Development,US,6,3,5,2,3,2,2,1,1,2,2,5,1
+2020-06-08 18:52:00,10,Human Resources,US,10,2,3,1,2,2,5,3,1,3,3,1,5
+2020-06-12 12:37:40,0,Customer Service,US,6,3,3,4,5,1,5,1,1,2,4,3,4

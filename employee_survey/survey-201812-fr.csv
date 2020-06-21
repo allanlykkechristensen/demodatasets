@@ -1,0 +1,128 @@
+Date,How many years have you worked for Acme Corporation?,In which business unit do you currently work?,In which office are you currently working?,How satisfied are you with working at Acme Corporation?,My performance is measured against clearly defined outcomes and metrics.,I have access to everything that I need to perform at my job.,My strengths are recognized and I put them into practice every day.,I receive meaningful recognition for doing a good job.,I am happy with the relationship with my manager.,My manager supports me to get better at my valued skills.,My opinions matter and are taken into consideration.,My job counts towards achieving the goals of the organization.,My colleagues are accountable for doing quality work.,I consider at least one of my colleagues to be a true friend.,I have received support for personal growth and development in the last six months.,There are ongoing opportunities for learning and growth in my role.
+2018-12-20 21:00:25,14,Production,FR,9,1,3,4,5,3,4,3,3,4,1,2,3
+2018-12-22 23:28:32,2,Customer Service,FR,9,1,3,4,5,3,3,3,5,4,1,1,2
+2018-12-19 08:08:44,13,Customer Service,FR,10,5,4,4,1,3,4,5,3,4,4,4,1
+2018-12-25 16:57:50,0,Production,FR,10,1,4,4,3,3,4,5,3,5,1,4,3
+2018-12-02 17:58:49,11,Customer Service,FR,10,5,3,4,2,3,4,5,5,5,1,5,1
+2018-12-14 14:23:57,9,Research and Development,FR,9,5,4,2,4,3,4,3,5,5,1,3,5
+2018-12-14 15:46:28,15,Research and Development,FR,10,1,3,2,1,3,3,5,3,5,1,1,3
+2018-12-26 05:05:10,2,Finance and Administration,FR,9,5,3,4,3,3,4,3,3,4,1,5,3
+2018-12-07 04:20:45,14,Sales and Marketing,FR,10,1,4,2,3,3,4,3,3,4,1,5,1
+2018-12-07 11:38:24,14,Research and Development,FR,10,5,3,4,1,3,4,3,4,4,1,2,5
+2018-12-18 06:38:56,15,Human Resources,FR,10,5,3,2,5,3,4,5,3,5,4,4,5
+2018-12-06 21:29:49,8,Customer Service,FR,10,5,3,2,5,3,4,5,5,4,1,3,2
+2018-12-10 14:26:57,13,Research and Development,FR,9,5,4,4,2,3,4,3,5,5,1,4,1
+2018-12-16 11:12:09,11,Customer Service,FR,10,1,3,4,4,3,3,3,4,4,1,4,5
+2018-12-11 00:40:25,3,Sales and Marketing,FR,9,5,4,4,5,3,4,5,5,4,4,5,5
+2018-12-24 07:55:39,13,Human Resources,FR,9,1,3,4,1,3,4,3,3,5,1,4,3
+2018-12-21 08:58:59,8,Production,FR,9,5,3,2,4,3,3,5,5,4,4,3,1
+2018-12-05 06:00:57,4,Finance and Administration,FR,9,5,4,2,3,3,4,3,3,4,4,3,4
+2018-12-19 01:39:54,0,Sales and Marketing,FR,9,1,3,4,2,3,3,3,3,4,4,3,3
+2018-12-25 04:42:42,4,Sales and Marketing,FR,10,5,3,2,4,3,4,5,4,4,1,3,4
+2018-12-25 13:35:22,3,Sales and Marketing,FR,10,5,3,2,2,3,4,5,4,5,4,5,2
+2018-12-04 12:56:18,7,Finance and Administration,FR,10,1,3,2,5,3,3,3,5,4,1,5,4
+2018-12-11 18:01:32,8,Production,FR,10,5,3,2,1,3,3,5,3,5,4,3,1
+2018-12-14 16:58:28,7,Research and Development,FR,9,5,4,2,2,3,3,3,4,4,4,5,2
+2018-12-21 15:19:52,6,Production,FR,9,5,3,2,1,3,3,3,5,5,1,5,2
+2018-12-14 23:13:11,9,Production,FR,10,5,4,2,1,3,3,3,5,5,4,4,5
+2018-12-10 00:53:53,1,Human Resources,FR,9,5,4,4,5,3,4,3,3,4,1,4,4
+2018-12-12 19:08:56,4,Production,FR,10,1,4,2,4,3,4,5,4,5,1,3,5
+2018-12-21 20:35:48,13,Human Resources,FR,9,1,3,4,1,3,4,5,3,5,1,5,2
+2018-12-26 04:14:16,2,Human Resources,FR,9,5,3,2,1,3,4,3,3,5,1,4,2
+2018-12-20 20:45:26,12,Finance and Administration,FR,10,1,3,2,4,3,4,3,4,5,4,5,3
+2018-12-22 08:59:24,14,Sales and Marketing,FR,9,1,3,4,4,3,3,3,5,5,1,4,2
+2018-12-18 00:25:29,11,Finance and Administration,FR,9,5,3,4,1,3,3,5,4,4,4,1,4
+2018-12-22 15:46:41,0,Sales and Marketing,FR,10,1,3,4,1,3,3,3,5,4,4,5,4
+2018-12-27 18:29:27,5,Human Resources,FR,10,5,3,2,4,3,3,3,5,4,4,4,3
+2018-12-17 11:57:57,12,Human Resources,FR,9,1,4,4,2,3,3,5,5,4,1,2,5
+2018-12-20 23:15:29,14,Research and Development,FR,10,5,4,2,2,3,3,5,4,4,1,2,3
+2018-12-15 10:46:20,11,Sales and Marketing,FR,9,5,3,4,4,3,4,5,4,5,4,2,3
+2018-12-17 06:23:00,7,Finance and Administration,FR,9,1,4,4,2,3,3,3,3,4,1,4,5
+2018-12-26 22:44:20,9,Sales and Marketing,FR,9,1,4,4,1,3,4,5,5,4,4,3,5
+2018-12-13 22:30:17,9,Customer Service,FR,9,5,3,2,1,3,4,3,5,5,1,5,3
+2018-12-20 11:33:13,1,Research and Development,FR,9,1,3,2,3,3,4,3,5,4,1,1,1
+2018-12-29 09:39:08,12,Human Resources,FR,10,1,4,2,4,3,4,3,3,4,1,1,1
+2018-12-11 00:02:42,9,Human Resources,FR,9,1,4,2,3,3,3,5,4,4,1,4,3
+2018-12-08 23:55:03,2,Finance and Administration,FR,9,1,3,4,4,3,3,3,4,4,1,1,3
+2018-12-06 00:30:55,9,Research and Development,FR,10,5,3,2,5,3,3,5,4,5,1,3,1
+2018-12-20 19:14:57,8,Customer Service,FR,9,5,4,4,2,3,3,5,3,5,1,4,4
+2018-12-04 03:12:42,6,Research and Development,FR,10,1,3,4,2,3,4,3,4,4,1,2,4
+2018-12-08 07:19:48,7,Customer Service,FR,9,5,4,2,2,3,4,3,5,5,1,5,4
+2018-12-04 10:06:28,3,Research and Development,FR,9,5,3,4,1,3,4,3,4,4,4,2,5
+2018-12-18 17:32:12,5,Sales and Marketing,FR,9,1,4,2,3,3,4,5,3,4,4,2,2
+2018-12-10 12:32:47,9,Finance and Administration,FR,9,5,3,4,5,3,3,5,3,5,1,2,4
+2018-12-29 17:06:35,9,Human Resources,FR,9,5,4,2,3,3,4,5,3,5,1,5,5
+2018-12-08 13:01:29,5,Finance and Administration,FR,10,1,3,4,4,3,3,3,3,5,4,3,4
+2018-12-12 03:00:16,9,Research and Development,FR,9,5,4,4,5,3,4,5,4,5,1,2,5
+2018-12-12 11:48:01,0,Human Resources,FR,10,5,3,4,5,3,3,5,4,5,4,5,1
+2018-12-28 09:38:59,11,Finance and Administration,FR,10,5,4,4,4,3,3,3,5,4,4,2,5
+2018-12-26 08:54:41,6,Research and Development,FR,9,1,3,2,2,3,4,5,3,5,4,2,3
+2018-12-18 13:22:28,10,Customer Service,FR,10,1,4,2,4,3,3,5,5,5,4,4,3
+2018-12-21 05:47:02,8,Finance and Administration,FR,9,5,3,2,3,3,3,5,3,5,4,2,4
+2018-12-14 12:12:53,11,Customer Service,FR,10,1,4,2,4,3,4,5,4,4,4,5,4
+2018-12-26 08:50:58,9,Research and Development,FR,9,1,4,2,2,3,3,3,5,5,4,1,1
+2018-12-28 19:25:46,6,Research and Development,FR,9,1,4,2,5,3,3,3,3,4,4,5,4
+2018-12-10 23:57:01,8,Sales and Marketing,FR,9,1,4,2,4,3,3,3,4,4,1,3,1
+2018-12-18 15:59:18,12,Finance and Administration,FR,9,1,4,4,2,3,4,5,5,5,4,2,4
+2018-12-20 06:04:16,6,Customer Service,FR,9,1,3,2,5,3,4,5,4,5,1,1,3
+2018-12-01 06:41:28,1,Customer Service,FR,9,1,3,4,2,3,4,5,5,4,4,3,2
+2018-12-25 00:56:13,7,Customer Service,FR,9,5,3,2,3,3,3,5,5,5,1,2,4
+2018-12-19 18:50:24,1,Customer Service,FR,10,5,3,4,4,3,4,5,3,4,4,3,5
+2018-12-05 18:00:08,0,Production,FR,9,5,4,4,2,3,3,5,5,5,1,1,5
+2018-12-08 13:42:18,6,Finance and Administration,FR,9,1,4,2,5,3,3,3,3,5,1,5,4
+2018-12-28 07:38:31,1,Production,FR,9,1,3,4,2,3,4,5,3,5,1,3,1
+2018-12-25 12:51:50,12,Human Resources,FR,10,1,3,4,5,3,4,5,5,5,4,1,5
+2018-12-23 21:29:45,13,Production,FR,10,1,3,2,4,3,3,5,5,4,4,3,2
+2018-12-26 06:57:57,14,Customer Service,FR,9,5,3,4,3,3,3,5,3,4,1,2,4
+2018-12-11 15:28:54,4,Sales and Marketing,FR,9,5,3,4,2,3,3,3,3,4,4,1,2
+2018-12-14 00:44:13,8,Customer Service,FR,10,5,3,4,2,3,4,5,3,5,4,2,1
+2018-12-08 00:13:28,8,Production,FR,9,5,4,4,5,3,3,3,3,5,4,1,1
+2018-12-20 04:33:32,2,Human Resources,FR,10,1,4,4,1,3,4,5,5,4,1,3,5
+2018-12-18 22:39:37,14,Finance and Administration,FR,9,5,4,2,3,3,3,5,4,5,4,2,1
+2018-12-02 18:33:40,4,Finance and Administration,FR,9,1,3,2,2,3,3,3,3,4,4,2,3
+2018-12-28 10:46:28,4,Research and Development,FR,9,1,3,4,3,3,3,5,5,5,4,2,3
+2018-12-27 02:38:29,4,Sales and Marketing,FR,10,5,3,4,2,3,4,5,5,5,4,1,1
+2018-12-23 09:58:53,2,Finance and Administration,FR,9,1,4,4,2,3,4,5,5,5,4,3,1
+2018-12-06 01:35:28,14,Research and Development,FR,9,1,4,4,3,3,3,3,5,5,4,5,1
+2018-12-24 11:22:27,15,Human Resources,FR,10,5,3,4,2,3,3,3,5,5,1,5,3
+2018-12-04 11:44:03,4,Production,FR,9,5,3,4,1,3,4,3,3,5,1,4,4
+2018-12-29 18:14:27,5,Research and Development,FR,9,1,4,4,3,3,3,3,3,4,4,4,5
+2018-12-03 02:43:20,8,Finance and Administration,FR,10,1,4,2,2,3,4,3,3,5,4,1,3
+2018-12-24 18:01:29,14,Sales and Marketing,FR,9,5,3,2,3,3,3,3,4,4,4,1,2
+2018-12-23 22:02:32,13,Production,FR,10,1,4,2,4,3,3,5,3,5,4,3,2
+2018-12-06 03:54:47,5,Sales and Marketing,FR,10,5,4,2,1,3,4,5,4,5,4,4,1
+2018-12-29 20:21:24,5,Production,FR,9,5,3,2,2,3,4,3,5,5,4,4,4
+2018-12-18 02:06:41,15,Production,FR,10,5,3,2,4,3,4,5,3,5,1,5,4
+2018-12-06 16:20:44,9,Human Resources,FR,9,1,4,4,1,3,3,3,5,4,1,5,3
+2018-12-18 16:57:46,15,Sales and Marketing,FR,9,1,3,4,2,3,3,3,4,5,1,3,3
+2018-12-15 08:50:51,4,Sales and Marketing,FR,9,1,3,4,3,3,3,3,5,4,1,3,2
+2018-12-01 09:55:20,9,Production,FR,9,1,4,4,2,3,3,5,3,4,1,5,5
+2018-12-22 06:32:32,15,Human Resources,FR,10,1,4,4,4,3,3,5,5,5,4,3,3
+2018-12-04 01:16:40,12,Production,FR,9,1,4,4,5,3,3,3,4,4,1,4,3
+2018-12-24 09:14:46,8,Research and Development,FR,10,1,4,4,1,3,4,5,4,5,1,3,2
+2018-12-01 12:32:48,13,Production,FR,10,1,4,2,3,3,3,5,4,5,1,5,2
+2018-12-04 17:02:08,6,Customer Service,FR,9,5,3,2,1,3,3,5,5,5,4,4,5
+2018-12-12 04:33:56,0,Production,FR,10,1,3,2,3,3,4,5,3,4,4,1,2
+2018-12-09 13:15:12,9,Research and Development,FR,9,5,3,4,1,3,4,5,5,5,1,5,3
+2018-12-17 19:11:08,5,Customer Service,FR,10,5,4,4,1,3,3,3,5,4,4,1,2
+2018-12-27 20:24:59,3,Customer Service,FR,10,1,4,2,4,3,3,5,5,4,1,2,3
+2018-12-10 14:42:57,0,Human Resources,FR,10,5,4,2,4,3,4,5,4,4,4,1,4
+2018-12-25 08:52:26,9,Human Resources,FR,9,5,4,4,1,3,4,5,5,5,1,5,4
+2018-12-08 17:09:43,8,Human Resources,FR,10,5,4,2,2,3,4,3,4,5,4,1,2
+2018-12-19 18:47:20,14,Finance and Administration,FR,9,5,4,2,5,3,4,5,5,4,1,3,4
+2018-12-16 05:24:22,13,Sales and Marketing,FR,10,5,4,4,4,3,4,5,5,5,1,5,2
+2018-12-27 10:40:11,9,Sales and Marketing,FR,10,1,3,4,4,3,4,3,5,5,1,5,5
+2018-12-19 01:52:45,4,Sales and Marketing,FR,9,1,4,2,3,3,4,5,3,5,1,2,4
+2018-12-03 13:01:07,10,Research and Development,FR,9,1,3,4,4,3,4,3,3,4,1,5,1
+2018-12-22 18:03:06,12,Customer Service,FR,9,5,4,4,5,3,3,5,5,4,4,1,3
+2018-12-17 08:49:04,14,Finance and Administration,FR,9,5,3,4,3,3,4,5,5,4,4,3,5
+2018-12-25 03:46:50,4,Sales and Marketing,FR,9,1,4,4,1,3,4,3,3,5,1,5,5
+2018-12-21 16:30:03,12,Sales and Marketing,FR,10,1,4,4,2,3,3,3,3,5,1,5,5
+2018-12-28 07:23:04,0,Research and Development,FR,9,1,3,2,3,3,4,3,3,4,1,3,3
+2018-12-14 12:33:31,10,Sales and Marketing,FR,9,5,3,2,4,3,4,5,3,4,4,2,1
+2018-12-15 04:29:09,10,Human Resources,FR,10,5,4,4,4,3,3,5,4,5,1,5,3
+2018-12-11 08:07:00,0,Sales and Marketing,FR,10,5,3,2,1,3,4,3,4,5,4,5,5
+2018-12-13 11:43:43,12,Sales and Marketing,FR,9,5,3,2,4,3,3,5,4,4,1,3,2
+2018-12-18 12:36:52,4,Finance and Administration,FR,9,1,4,4,2,3,4,3,5,4,4,5,5
+2018-12-26 17:51:03,4,Production,FR,10,5,4,2,1,3,3,3,5,5,4,2,5
+2018-12-07 00:50:59,9,Research and Development,FR,9,1,4,4,3,3,4,5,4,5,4,4,1
